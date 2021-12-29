@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# CRA - My first CRA practice
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
