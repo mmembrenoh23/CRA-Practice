@@ -1,10 +1,12 @@
 //import logo from './logo.svg';
 //import './App.css';
 //import { Contador } from './components/Contador.jsx' //esto es cuando el modulo no se exporta como default
-import  Contador  from './components/Contador.jsx'
+//import  Contador  from './components/Contador.jsx'
+import Cards from './components/Cards'
 
 const App= () => {
-  return <Contador />
+ // return <Contador inicial={ 5 } factor={ 2 } />
+ return <Cards />
 };
 
 /*function App() {

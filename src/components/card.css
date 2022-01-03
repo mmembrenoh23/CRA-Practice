@@ -1,0 +1,19 @@
+.cards-container {
+    
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 250px;
+    margin:20px auto;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    justify-content: center;
+    box-shadow: 1px 1px 0 #ccc;
+}
+
+.card img {
+    width: 5rem;
+}
